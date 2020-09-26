@@ -1,0 +1,75 @@
+#design, td {
+  border-collapse: collapse;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 20px;
+  font-size: 14px;
+}
+#design td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  color: white;
+}
+.center {
+  text-align: center;
+}
+td:hover {
+  background-color: black;
+  color: white;
+}
+body, html {
+  height: 100%;
+}
+.img {
+  background-image: url("img.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+.t {
+  background-color: black;
+}
+.u {
+  background-color: black;
+}
+.v {
+  background-color: black;
+}
+.w {
+  background-color: black;
+}
+.x {
+  background-color: black;
+}
+.y {
+  background-color: black;
+}
+.z {
+  background-color: black;
+}
+.colorZero {
+  background-color: #1a4c9c;
+}
+.colorOne {
+  background-color: #b02117;
+}
+.colorTwo {
+  background-color: #c94a18;
+}
+.colorThree {
+  background-color: #ba8711;
+}
+.colorFour {
+  background-color: #b6c213;
+}
+.colorFive {
+  background-color: #52b312;
+}
+.colorSix {
+  background-color: #0ec28c;
+}
+.colorSeven {
+  background-color: #bd0fba;
+}
